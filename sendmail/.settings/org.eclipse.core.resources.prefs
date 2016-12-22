@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//lib/base64.c=UTF-8
+encoding//lib/base64.h=UTF-8
+encoding/smtp.c=UTF-8
+encoding/smtp.h=UTF-8
